@@ -31,9 +31,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 北京体育,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226730/index.m3u8
 纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 金鹰纪实,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226714/index.m3u8
-家庭剧场,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
-家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
-大众影视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
 全国卫视,#genre#
 北京卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226666/index.m3u8
 东方卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226733/index.m3u8
